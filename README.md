@@ -1,14 +1,16 @@
 # Future Digital Blog App
 
-This app is a blog. It is a replica of the blog I'm developing in Javascript
+This app is a blog. It is a replica of the blog I'm developing in Javascript.
 Operations performed include:
-1. Creating a blog post
-2. Reading a blog post
-3. Deleting a blog Post
-4. Validating the blog post credentials.
-5. Returning a list of blog posts.
-6. Authentication of users.
-7. Cookie validation
+1. Returning a list of blog posts.
+2. Authentication of users.
+3. Cookie validation.
+4. Creating a blog post
+5. Reading a blog post
+6. Deleting a blog Post
+7. Validating the blog post credentials.
+8. Hashing passwords
+
 
 # Technologies used
 
